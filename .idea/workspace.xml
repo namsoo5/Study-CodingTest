@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b64b5c09-0db7-4c64-a1ee-be337294ecde" name="Default Changelist" comment="" />
+    <list default="true" id="b64b5c09-0db7-4c64-a1ee-be337294ecde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy.xcodeproj/project.xcworkspace/xcuserdata/namsookim.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy.xcodeproj/xcuserdata/namsookim.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy/main.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeTest/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeTest/Blind2018_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeTest/Blind2018_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeTest/Hash1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeTest/META-INF/codeTest.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/codeTest/Sample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/Blind2018_1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-67">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#98#114#0" expanded="true" />
@@ -44,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/src/Blind2018_2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -115,6 +144,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -182,12 +212,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566805553468</updated>
       <workItem from="1566805555511" duration="2941000" />
-      <workItem from="1566964760111" duration="22565000" />
+      <workItem from="1566964760111" duration="22900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25506000" />
+    <option name="totallyTimeSpent" value="25841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="624" y="23" width="816" height="837" extended-state="0" />
@@ -252,7 +282,7 @@
     <entry file="file://$PROJECT_DIR$/src/Blind2018_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-67">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#98#114#0" expanded="true" />
@@ -264,7 +294,7 @@
     <entry file="file://$PROJECT_DIR$/src/Blind2018_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
