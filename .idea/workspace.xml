@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b64b5c09-0db7-4c64-a1ee-be337294ecde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy.xcodeproj/project.xcworkspace/xcuserdata/namsookim.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy.xcodeproj/xcuserdata/namsookim.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTestStudy/CodeTestStudy/main.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codeTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codeTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codeTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codeTest/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codeTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codeTest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codeTest/Blind2018_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codeTest/Blind2018_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codeTest/Hash1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codeTest/META-INF/codeTest.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/codeTest/Sample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeTestStudy-Swift/CodeTestStudy.xcodeproj/project.xcworkspace/xcuserdata/namsookim.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/CodeTestStudy-Swift/CodeTestStudy.xcodeproj/project.xcworkspace/xcuserdata/namsookim.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -232,7 +205,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19463088" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19463088" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

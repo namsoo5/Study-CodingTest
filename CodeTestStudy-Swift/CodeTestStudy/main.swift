@@ -45,4 +45,6 @@ func solution(_ s:String, _ n:Int) -> String {
     return result
 }
 
-let a = solution(s3, n3)
+//let a = solution(s3, n3)
+
+watermelon().solution(3)
