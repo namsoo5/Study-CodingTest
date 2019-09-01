@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		060E4C5A23190E3300969D86 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4C5923190E3300969D86 /* main.swift */; };
 		060E4C652319376000969D86 /* watermelon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4C642319376000969D86 /* watermelon.swift */; };
+		060E4C67231A9A9E00969D86 /* hidePhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4C66231A9A9E00969D86 /* hidePhoneNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		060E4C5623190E3300969D86 /* CodeTestStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodeTestStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		060E4C5923190E3300969D86 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		060E4C642319376000969D86 /* watermelon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = watermelon.swift; sourceTree = "<group>"; };
+		060E4C66231A9A9E00969D86 /* hidePhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hidePhoneNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				060E4C5923190E3300969D86 /* main.swift */,
 				060E4C642319376000969D86 /* watermelon.swift */,
+				060E4C66231A9A9E00969D86 /* hidePhoneNumber.swift */,
 			);
 			path = CodeTestStudy;
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				060E4C67231A9A9E00969D86 /* hidePhoneNumber.swift in Sources */,
 				060E4C5A23190E3300969D86 /* main.swift in Sources */,
 				060E4C652319376000969D86 /* watermelon.swift in Sources */,
 			);

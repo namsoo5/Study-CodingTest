@@ -47,4 +47,7 @@ func solution(_ s:String, _ n:Int) -> String {
 
 //let a = solution(s3, n3)
 
-watermelon().solution(3)
+//watermelon().solution(3)
+
+핸드폰번호가리기().solution("027778888")
+print(핸드폰번호가리기().solution2("01012345678"))
