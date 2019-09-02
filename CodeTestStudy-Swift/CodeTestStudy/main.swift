@@ -49,5 +49,7 @@ func solution(_ s:String, _ n:Int) -> String {
 
 //watermelon().solution(3)
 
-핸드폰번호가리기().solution("027778888")
-print(핸드폰번호가리기().solution2("01012345678"))
+//핸드폰번호가리기().solution("027778888")
+//print(핸드폰번호가리기().solution2("01012345678"))
+
+예산().solution([2,2,3,3], 10)
