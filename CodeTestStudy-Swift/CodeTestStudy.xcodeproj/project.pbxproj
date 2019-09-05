@@ -11,6 +11,9 @@
 		060E4C652319376000969D86 /* watermelon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4C642319376000969D86 /* watermelon.swift */; };
 		060E4C67231A9A9E00969D86 /* hidePhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4C66231A9A9E00969D86 /* hidePhoneNumber.swift */; };
 		060E4C69231B9CFD00969D86 /* budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4C68231B9CFD00969D86 /* budget.swift */; };
+		060E4C6B231D17BB00969D86 /* findSosu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4C6A231D17BB00969D86 /* findSosu.swift */; };
+		060E4C712321250300969D86 /* nextBigNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4C702321250300969D86 /* nextBigNumber.swift */; };
+		060E4C732321293300969D86 /* numberBaseball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4C722321293300969D86 /* numberBaseball.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +34,9 @@
 		060E4C642319376000969D86 /* watermelon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = watermelon.swift; sourceTree = "<group>"; };
 		060E4C66231A9A9E00969D86 /* hidePhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hidePhoneNumber.swift; sourceTree = "<group>"; };
 		060E4C68231B9CFD00969D86 /* budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = budget.swift; sourceTree = "<group>"; };
+		060E4C6A231D17BB00969D86 /* findSosu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findSosu.swift; sourceTree = "<group>"; };
+		060E4C702321250300969D86 /* nextBigNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nextBigNumber.swift; sourceTree = "<group>"; };
+		060E4C722321293300969D86 /* numberBaseball.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numberBaseball.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,9 +70,12 @@
 			isa = PBXGroup;
 			children = (
 				060E4C5923190E3300969D86 /* main.swift */,
+				060E4C6A231D17BB00969D86 /* findSosu.swift */,
 				060E4C68231B9CFD00969D86 /* budget.swift */,
 				060E4C642319376000969D86 /* watermelon.swift */,
 				060E4C66231A9A9E00969D86 /* hidePhoneNumber.swift */,
+				060E4C702321250300969D86 /* nextBigNumber.swift */,
+				060E4C722321293300969D86 /* numberBaseball.swift */,
 			);
 			path = CodeTestStudy;
 			sourceTree = "<group>";
@@ -128,7 +137,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				060E4C712321250300969D86 /* nextBigNumber.swift in Sources */,
+				060E4C6B231D17BB00969D86 /* findSosu.swift in Sources */,
 				060E4C67231A9A9E00969D86 /* hidePhoneNumber.swift in Sources */,
+				060E4C732321293300969D86 /* numberBaseball.swift in Sources */,
 				060E4C5A23190E3300969D86 /* main.swift in Sources */,
 				060E4C69231B9CFD00969D86 /* budget.swift in Sources */,
 				060E4C652319376000969D86 /* watermelon.swift in Sources */,
