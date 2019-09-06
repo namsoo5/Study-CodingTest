@@ -9,7 +9,19 @@
 import Foundation
 
 class 숫자야구{
+    var result = 0
     func solution(_ baseball:[[Int]]) -> Int {
-        return 0
+        
+        let sortArray = baseball.sorted{ $0[1] > $1[1] }
+        print(sortArray)
+        
+        
+        return result
     }
+    
+    func process(){
+        
+    }
+    
+    
 }
