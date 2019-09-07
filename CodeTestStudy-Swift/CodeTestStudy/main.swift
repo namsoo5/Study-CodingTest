@@ -56,4 +56,10 @@ func solution(_ s:String, _ n:Int) -> String {
 
 //소수찾기().solution("123")
 
-다음큰숫자().solution(78)
+//다음큰숫자().solution(78)
+
+//숫자야구().solution([[123, 1, 1], [356, 1, 0], [327, 2, 0], [489, 0, 1]])
+
+//모의고사().solution([1,3,2,4,2])
+
+체육복().solution(3, [2,3], [1,2])
