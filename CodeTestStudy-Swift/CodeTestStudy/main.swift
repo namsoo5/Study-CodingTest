@@ -62,4 +62,48 @@ func solution(_ s:String, _ n:Int) -> String {
 
 //모의고사().solution([1,3,2,4,2])
 
-체육복().solution(3, [2,3], [1,2])
+//체육복().solution(3, [2,3], [1,2])
+
+//K번째수().solution([1,5,2,6,3,7,4], [[2,5,3],[4,4,1],[1,7,3]])
+
+//년2016().solution(5, 24)
+
+//가운데글자().solution("abcde")
+//가운데글자().solution("qwer")
+
+//나누어떨어지는숫자배열().solution([5,9,7,10], 5)
+//나누어떨어지는숫자배열().solution([2,36,1,3], 1)
+//나누어떨어지는숫자배열().solution([3,2,6], 10)
+
+//쇠막대기().solution("()(((()())(())()))(())")
+
+//프린터().solution([2,1,3,2], 2)
+//프린터().solution([1,1,9,1,1,1], 0)
+//프린터().solution([1,2,2,3,3,4], 0)
+
+//기능개발().solution([93,30,55], [1,30,5])
+//기능개발().solution([93,30,55], [5,30,5])
+
+//다리를지나는트럭().solution(2, 10, [7,4,5,6])
+//다리를지나는트럭().solution(100, 100, [10])
+//다리를지나는트럭().solution(100, 100, [10,10,10,10,10,10,10,10,10,10])
+
+//탑().solution([6,9,5,7,4])
+//탑().solution([3,9,9,3,5,7,2])
+//탑().solution([1,5,3,6,7,6,5])
+
+protocol QueStack {
+    associatedtype T;
+    var save: [T] { get set }
+    
+    mutating func add(element: T)
+    
+    mutating func first() -> T
+    
+    func size()->Int
+}
+
+//스킬트리().solution("CBD", ["BACDE", "CBADF", "AECB", "BDA"])
+
+네이버문제1().solution(["d@co@m.com","a@abc.com","b@def.com","c@ghi.net"])
+네이버문제1().solution(["abc.def@x.com","abc","abc@defx","abc@defx.xyz"])
