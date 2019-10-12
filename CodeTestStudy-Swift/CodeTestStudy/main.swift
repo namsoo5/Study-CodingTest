@@ -105,5 +105,16 @@ protocol QueStack {
 
 //스킬트리().solution("CBD", ["BACDE", "CBADF", "AECB", "BDA"])
 
-네이버문제1().solution(["d@co@m.com","a@abc.com","b@def.com","c@ghi.net"])
-네이버문제1().solution(["abc.def@x.com","abc","abc@defx","abc@defx.xyz"])
+//네이버문제1().solution(["d@co@m.com","a@abc.com","b@def.com","c@ghi.net"])
+//네이버문제1().solution(["abc.def@x.com","abc","abc@defx","abc@defx.xyz"])
+//
+//헥데이1().solution([2,1,3])
+//헥데이1().solution([3,2,1])
+//헥데이1().solution([3,2,3,6,4,5])
+//헥데이1().solution([3,2,2,5,1])
+
+//헥데이2().solution("<v>AB^CYv^XAZ", ["v>AB^CYv^XA","<v>A","^XAZ","Yv^XA",">AB^"], [50, 18, 20, 30, 25])
+//헥데이2().solution("ABCXYZ", ["BCXY"], [2])
+
+//헥데이3().solution(["..........","AAACC.....",".AAA.....Z","..AAAA..C.","...BBBBB..","....BBB...","...ZBBB...","ZZZZAAAC..",".....CCCC.","QQ......C.",".........."])
+//헥데이3().solution(["A.B.C.D", ".B.C.D."])
