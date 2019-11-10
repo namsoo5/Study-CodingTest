@@ -28,6 +28,9 @@
 		060E4CAC233225E500969D86 /* 탑.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4CAB233225E500969D86 /* 탑.swift */; };
 		060E4CAE2332962D00969D86 /* 스킬트리.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4CAD2332962D00969D86 /* 스킬트리.swift */; };
 		060E4CB12339CD3600969D86 /* 네이버코테1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060E4CB02339CD3600969D86 /* 네이버코테1.swift */; };
+		06B2D75C23516834004BF2A9 /* 헥데이1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B2D75B23516834004BF2A9 /* 헥데이1.swift */; };
+		06B2D75E235170FE004BF2A9 /* 헥데이2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B2D75D235170FE004BF2A9 /* 헥데이2.swift */; };
+		06B2D76023517984004BF2A9 /* 헥데이3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B2D75F23517984004BF2A9 /* 헥데이3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -65,6 +68,9 @@
 		060E4CAB233225E500969D86 /* 탑.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "탑.swift"; sourceTree = "<group>"; };
 		060E4CAD2332962D00969D86 /* 스킬트리.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "스킬트리.swift"; sourceTree = "<group>"; };
 		060E4CB02339CD3600969D86 /* 네이버코테1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "네이버코테1.swift"; sourceTree = "<group>"; };
+		06B2D75B23516834004BF2A9 /* 헥데이1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "헥데이1.swift"; sourceTree = "<group>"; };
+		06B2D75D235170FE004BF2A9 /* 헥데이2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "헥데이2.swift"; sourceTree = "<group>"; };
+		06B2D75F23517984004BF2A9 /* 헥데이3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "헥데이3.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +103,7 @@
 		060E4C5823190E3300969D86 /* CodeTestStudy */ = {
 			isa = PBXGroup;
 			children = (
+				06B2D75A23516823004BF2A9 /* 헥데이윈터 */,
 				060E4CAF2339CD2400969D86 /* 네이버코테 */,
 				060E4C772322672600969D86 /* 2회차 */,
 				060E4C762322670C00969D86 /* 1회차 */,
@@ -147,6 +154,17 @@
 			);
 			name = "네이버코테";
 			path = "네이버코테";
+			sourceTree = "<group>";
+		};
+		06B2D75A23516823004BF2A9 /* 헥데이윈터 */ = {
+			isa = PBXGroup;
+			children = (
+				06B2D75B23516834004BF2A9 /* 헥데이1.swift */,
+				06B2D75D235170FE004BF2A9 /* 헥데이2.swift */,
+				06B2D75F23517984004BF2A9 /* 헥데이3.swift */,
+			);
+			name = "헥데이윈터";
+			path = "핵데이윈터";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -211,8 +229,10 @@
 				060E4C6B231D17BB00969D86 /* findSosu.swift in Sources */,
 				060E4CAC233225E500969D86 /* 탑.swift in Sources */,
 				060E4CA4232B7BF300969D86 /* 프린터.swift in Sources */,
+				06B2D76023517984004BF2A9 /* 헥데이3.swift in Sources */,
 				060E4C792322675800969D86 /* 모의고사.swift in Sources */,
 				060E4C9A23279EEB00969D86 /* K번째수.swift in Sources */,
+				06B2D75C23516834004BF2A9 /* 헥데이1.swift in Sources */,
 				060E4C67231A9A9E00969D86 /* hidePhoneNumber.swift in Sources */,
 				060E4C732321293300969D86 /* numberBaseball.swift in Sources */,
 				060E4CA8232D0A0800969D86 /* 다항식덧셈.swift in Sources */,
@@ -223,6 +243,7 @@
 				060E4C69231B9CFD00969D86 /* budget.swift in Sources */,
 				060E4CB12339CD3600969D86 /* 네이버코테1.swift in Sources */,
 				060E4C652319376000969D86 /* watermelon.swift in Sources */,
+				06B2D75E235170FE004BF2A9 /* 헥데이2.swift in Sources */,
 				060E4C7B23228B3B00969D86 /* 체육복.swift in Sources */,
 				060E4CA2232A254400969D86 /* 쇠막대기.swift in Sources */,
 				060E4CAE2332962D00969D86 /* 스킬트리.swift in Sources */,
